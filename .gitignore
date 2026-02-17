@@ -1,0 +1,18 @@
+# PROGRAM
+pipex
+a.out
+/libft/libft.a
+
+# FILES
+infile
+outfile
+
+# OBJECT
+/obj
+/libft/obj
+
+# ENV
+.venv
+
+# OTHER
+test.c
